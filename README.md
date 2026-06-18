@@ -1,5 +1,9 @@
 # Game Instructions
 
+#reference 
+
+# https://github.com/AlejoG10/python-ultimate-tictactoe-yt
+
 - Entry point: main.py
 - Change game mode on main.py line 12 (classic, ultimate, max)
 - Press 'r' to restart the game
